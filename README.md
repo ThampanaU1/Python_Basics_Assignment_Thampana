@@ -21,8 +21,8 @@ The assignment demonstrates understanding of:
 ## 👩‍💻 Student Details
 
 **Name:** Thampana U  
-**Company:** Campuspe
-**Assignment:** Assignment-2 
+**Company:** Campuspe  
+**Assignment:** Assignment-2  
 **Total Questions:** 20  
 
 ---
