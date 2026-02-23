@@ -3,7 +3,7 @@ import math
 from datetime import datetime
 
 # ==========================================================
-# PYTHON BASICS ASSIGNMENT
+# CAMPUSPE ASSIGNMENT-2
 # Name: Thampana u
 # Total Questions: 20
 # ==========================================================
@@ -17,7 +17,7 @@ def question1():
      # Using variables for each field 
     name = "Thampana u"
     age = 21
-    course = "Python Programming"
+    course = "Generative AI"
     college = "SJBIT"
     email = "thampana26@example.com"
 
@@ -887,9 +887,7 @@ def question19():
     analyze_text(user_text)
 
 
-# ----------------------------------------------------------
-# QUESTION 20: Number System Functions
-# ----------------------------------------------------------
+
 # ----------------------------------------------------------
 # QUESTION 20: Number System Functions
 # ----------------------------------------------------------
